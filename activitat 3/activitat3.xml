@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="act3.xsl"?>
+<empresa><!--Root-->
+    <empleats><!--Fill-->
+        <nom>Frank</nom><!--Nom-->
+        <cognom>Garnett</cognom><!--Cognom-->
+        <nacionalitat>Australia</nacionalitat><!--Nacionalitat-->
+        <antiguitat>4 anys</antiguitat><!--Antigüitat-->
+        <ciutat>Sydney</ciutat><!--Ciutat-->
+        <naixement>1990</naixement><!--Naixement-->
+    </empleats>
+    <empleats>
+        <nom>Sandra</nom>
+        <cognom>Roca</cognom>
+        <nacionalitat>España</nacionalitat>
+        <antiguitat>7 anys</antiguitat>
+        <ciutat>Sevilla</ciutat>
+        <naixement>1994</naixement>
+    </empleats>
+    <empleats>
+        <nom>Piers</nom>
+        <cognom>Morgan</cognom>
+        <nacionalitat>Inglaterra</nacionalitat>
+        <antiguitat>3 anys</antiguitat>
+        <ciutat>Liverpool</ciutat>
+        <naixement>1993</naixement>
+    </empleats>
+    <empleats>
+        <nom>Cristobal</nom>
+        <cognom>Soria</cognom>
+        <nacionalitat>Mexico</nacionalitat>
+        <antiguitat>1 anys</antiguitat>
+        <ciutat>Ciudad de Mexico</ciutat>
+        <naixement>1998</naixement>
+    </empleats>
+    <empleats>
+        <nom>Jose</nom>
+        <cognom>Martin</cognom>
+        <nacionalitat>Colombia</nacionalitat>
+        <antiguitat>5 anys</antiguitat>
+        <ciutat>Medellin</ciutat>
+        <naixement>1999</naixement>
+    </empleats>
+    <empleats>
+        <nom>Giulia</nom>
+        <cognom>Ergamo</cognom>
+        <nacionalitat>Italia</nacionalitat>
+        <antiguitat>2 anys</antiguitat>
+        <ciutat>Genova</ciutat>
+        <naixement>1992</naixement>
+    </empleats>
+    <empleats>
+        <nom>Nandez</nom>
+        <cognom>Lopez</cognom>
+        <nacionalitat>Argentina</nacionalitat>
+        <antiguitat>4 anys</antiguitat>
+        <ciutat>Buenos Aires</ciutat>
+        <naixement>1996</naixement>
+    </empleats>
+</empresa>

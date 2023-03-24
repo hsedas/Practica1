@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="act2.xsl"?>
+<biblioteca>
+    <llibre>
+        <titol>Hijos de la fabula</titol><!--Títol-->
+        <autor>Fernando Aramburu</autor><!--Autor-->
+    </llibre>
+    <llibre>
+        <titol>De vuelta a casa</titol>
+        <autor>Kate Morton</autor>
+    </llibre>
+    <llibre>
+        <titol>Dieciseis Notas</titol>
+        <autor>Risto Mejide</autor>
+    </llibre>
+    <llibre>
+        <titol>El cuco de cristal</titol>
+        <autor>Javier Castillo</autor>
+    </llibre>
+</biblioteca>
